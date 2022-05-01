@@ -1,0 +1,57 @@
+body{
+
+	    margin: 0px;
+	    padding: 0px;
+	    font-family: sans-serif;
+	    
+
+}
+#container{
+	background: #00FFFF;
+	width: 1000px;
+	margin: 0px;
+	padding: 0px;
+	margin: auto;
+	height: 100%;
+}
+#menu{
+text-align: center;
+padding-top: 30px;
+margin: 0px;
+
+
+}
+#menu li{
+	display: inline;
+	text-decoration: none;
+	background-color: #5F9EA0;
+	font-size: 20px;
+	padding: 10px;
+	margin: 15px;
+
+	
+}
+#menu li a{
+
+	text-decoration: none;
+	color: white;
+}
+#menu li a:hover{
+	color: blue;
+}
+#form{
+	background: #5F9EA0;
+	width: 500px;
+	height: 300px;
+	text-align: center;
+	margin: auto;
+	margin-top: 70px;
+}
+#registration_form{
+	background: #5F9EA0;
+	width: 500px;
+	height: 450px;
+	text-align: center;
+	margin: auto;
+	margin-top: 70px;
+}

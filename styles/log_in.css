@@ -1,0 +1,97 @@
+body,h1,h2,h3,h4,h5,h6,p,form,input,table,tr,td{
+	margin: 0px;
+	padding: 0px;
+	font-family: verdana,arial,sans-serif;
+}
+
+
+#head{
+
+	height: 82px;
+	background: #5F9EA0;
+	margin: 0px;
+	padding: 0px;
+}
+#left{
+	float:left;
+	width: 50%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	color: white;
+	font-family:verdana,arial,sans-serif; 
+}
+
+#Right{
+	float:right;
+	width: 50%;
+	margin: 0px;
+	padding: 0px;
+	color: white;
+
+}
+input{
+	margin-left: 10px;
+	width: 142px;
+}
+.label{
+	margin-left: 10px;
+	color: white;
+	font-size: 16px;
+	font-family: verdana,arial,sans-serif;
+}
+#login_button{
+	width: 60px;
+	height: 30px;
+	color: white;
+	background-color: #69a74e;
+    font-size: 15px;
+}
+#body{
+	clear: both;
+    margin: 0px;
+    padding: 0px;
+    
+    color: #141823;;
+    background: #E6E6FA;
+    font-family: verdana,arial,sans-serif;
+}
+#welcome{
+	width: 50%;
+    height: 600px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	text-align: center;
+	padding-top: 60px;
+}
+#form{
+	width: 50%;
+	
+	float: right;
+	
+
+}
+#table{
+	margin: 30px;
+	border: 1px solid #7FFFD4;
+-webkit-border-radius: 10px;
+padding: 10px;
+ font-family: verdana,arial,sans-serif;
+ background: #7FFFD4;
+
+}
+#sign_up_button{
+	margin: 0px;
+	padding: 0px;
+	background-color: #69a74e;
+	font-size: 19px;
+line-height: 126%;
+width: 142px;
+border: 1px solid;
+-webkit-border-radius: 5px;
+color: #fff;
+padding: 1px 6px;
+height: 50px;
+}
+

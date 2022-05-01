@@ -1,0 +1,183 @@
+html,body,div,h1,h2,h3,h4,h5,h6,p,dl,dt,dd,ol,ul,li,table,tr,th,td,
+article,footer,header,nav,menu,form{
+
+	margin: 0px;
+	padding: 0px;
+	border:0px;
+	vertical-align: baseline;
+	font-family: verdana,arial,sans-serif; 
+	 
+}
+article,aside,details,footer,nav,menu{
+
+	display: block;
+}
+
+body{
+
+	background: #666;
+	font-family: sans-serif;
+}
+.container{
+	width: 1000px;
+	margin: auto;
+	
+	padding: 0px;
+	
+}
+
+.head{
+	width: 1000px;
+	height: 100px;
+	background: #FFF;
+	margin: 0px;
+	padding: 0px;
+    background: url("../images/Home-Page-Audi.jpg");
+}
+#name{
+	font-family: verdana,arial,sans-serif; 
+	color: green;
+	padding: 10px;
+	margin: 0px;
+}
+#option{
+	margin-left: 150px;
+}
+#option li{
+display: inline;
+margin-left: 20px;
+
+}
+#option li a{
+	background: #7FFFD4;
+	padding: 7px;
+	color: blue;
+	font-size: 18px;
+}
+.navbar{
+	width: 1000px;
+	height: 50px;
+	background: #5F9EA0;
+	margin: 0px;
+	padding: 0px;
+} 
+#menu{
+	line-height: 50px;
+	float: left;
+}
+#menu li{
+	list-style: none;
+	display: inline;
+}
+#menu a{ 
+	text-decoration:none;
+	font-size: 18px;
+	font-family: verdana,arial,sans-serif; 
+	color: #FFF;
+	margin: 5px;
+	padding: 6px; 
+
+}
+#menu a:hover{
+	color: orange;
+	text-decoration: underline;
+}
+#form{
+         float: right;
+         padding-top: 15px;
+         
+         margin: auto; 
+         
+
+}
+.post_area{
+	width: 700px;
+	
+	background: white;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+#photo{
+	float: left;
+	width: 350px;
+	
+	height: 220px;
+	
+}
+#specification{
+	float: right;
+	margin-right: 70px;
+	margin-top: 90px;
+	text-align: center;
+	width: 270px;
+	
+}
+#specification h3{
+	color:black;
+}
+#description{
+	clear: both;
+	margin-left: 10px;
+}
+#read_more{
+	clear: both;
+	color: white;
+
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+#rmlink{
+	background: pink;
+	margin-right: 10px;
+	padding: 5px;
+	font-size: 17px;
+}
+.sidebar{
+	width: 300px;
+	
+	background: #F99;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#latest{
+	background: green;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+#sidebar_content{
+margin: auto;
+text-align: center;
+}
+#note{
+	text-align: center;
+	background: green;
+		color: white;
+		padding: 10px;
+
+
+}
+#media{
+	text-align: center;
+	margin: 10px;
+}
+.footer_area{
+	width: 1000px;
+	height: 100px;
+	clear: both;
+	background: #000;
+	color: #FFF; 
+}
+#contact{
+	width: 700px;
+	height: 800px;
+	margin: 0px;
+	padding: 20px;
+}
